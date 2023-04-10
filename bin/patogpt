@@ -3,4 +3,4 @@
 
 require "patogpt"
 
-Patogpt.start(ARGV)
+Patogpt.start(ARGV[0])
