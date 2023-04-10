@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "pato-gpt"
-  spec.version       = "0.1.7"
+  spec.version       = "0.1.10"
   spec.authors       = ["Andrew S Aguiar"]
   spec.email         = ["andrewaguiar6@gmail.com"]
   spec.summary       = 'Pato assistente' 

@@ -1,5 +1,6 @@
 # PatoGpt
 
+![PatoGpt](patogpt.png)
 
 ## Installation
 
