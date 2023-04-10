@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Pato assistente' 
   spec.description   = 'Pato assistente que usa ChatGpt'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/andrewaguiar/patogpt"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
