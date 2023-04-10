@@ -1,7 +1,6 @@
 require 'net/http'
 require 'json'
 require 'tty-markdown'
-require 'tty-spinner'
 require 'pastel'
 
 class Patogpt
